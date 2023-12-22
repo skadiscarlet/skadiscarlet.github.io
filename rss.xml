@@ -10,21 +10,9 @@
         </author>
         <description>Nese萌新Web手，擅长AK茶歇区。</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 22 Dec 2023 17:33:59 +0800</pubDate>
-        <lastBuildDate>Fri, 22 Dec 2023 17:33:59 +0800</lastBuildDate>
+        <pubDate>Thu, 21 Dec 2023 22:02:53 +0800</pubDate>
+        <lastBuildDate>Thu, 21 Dec 2023 22:02:53 +0800</lastBuildDate>
         <category term="二次元 Web萌新" />
-        <item>
-            <guid isPermalink="true">https://blog.skadi.vip/2023/12/22/test/</guid>
-            <title>test</title>
-            <link>https://blog.skadi.vip/2023/12/22/test/</link>
-            <category term="计算机科学" scheme="https://blog.skadi.vip/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-            <category term="Linux" scheme="https://blog.skadi.vip/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Linux/" />
-            <category term="文章标签1" scheme="https://blog.skadi.vip/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
-            <category term="文章标签2" scheme="https://blog.skadi.vip/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
-            <pubDate>Fri, 22 Dec 2023 17:33:59 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;123&lt;/p&gt;
- ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://blog.skadi.vip/2023/12/21/hello-world/</guid>
             <title>Hello World</title>

@@ -8,20 +8,8 @@
     <author>
       <name>skadi</name>
     </author>
-    <updated>2023-12-22T09:33:59.000Z</updated>
+    <updated>2023-12-21T14:02:53.543Z</updated>
     <category term="二次元 Web萌新" />
-    <entry>
-        <id>https://blog.skadi.vip/2023/12/22/test/</id>
-        <title>test</title>
-        <link rel="alternate" href="https://blog.skadi.vip/2023/12/22/test/"/>
-        <content type="html">&lt;p&gt;123&lt;/p&gt;
-</content>
-        <category term="计算机科学" scheme="https://blog.skadi.vip/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Linux" scheme="https://blog.skadi.vip/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Linux/" />
-        <category term="文章标签1" scheme="https://blog.skadi.vip/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
-        <category term="文章标签2" scheme="https://blog.skadi.vip/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
-        <updated>2023-12-22T09:33:59.000Z</updated>
-    </entry>
     <entry>
         <id>https://blog.skadi.vip/2023/12/21/hello-world/</id>
         <title>Hello World</title>
